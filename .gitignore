@@ -34,3 +34,13 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+# Data
+/data/
+
+# Data files
+*.csv
+*.Rdata
+*.sav
+*.dta
+*.rds
